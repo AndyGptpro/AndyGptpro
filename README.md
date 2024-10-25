@@ -1,12 +1,12 @@
-<h1 align="center">👋 Привет! Меня зовут Андрей (AndyGPT)</h1>
-<h3 align="center">Специалист по использованию искусственного интеллекта и веб-разработке</h3>
+<h1 align="center">👋 Привет, я Андрей (AndyGPT)</h1>
+<h3 align="center">✨ Специалист по искусственному интеллекту и веб-разработке ✨</h3>
 
 <p align="center">
   <a href="https://andu-gpt.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Сайт-andu--gpt.vercel.app-3498db?style=for-the-badge&logo=vercel&logoColor=white" alt="Мой сайт">
+    <img src="https://img.shields.io/badge/🌐_Сайт-andu--gpt.vercel.app-3498db?style=for-the-badge&logo=vercel&logoColor=white" alt="Сайт">
   </a>
   <a href="https://www.upwork.com/freelancers/~01f566cd0af44e507d" target="_blank">
-    <img src="https://img.shields.io/badge/💼_Upwork-Профиль-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork профиль">
+    <img src="https://img.shields.io/badge/💼_Upwork-Профиль-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
   </a>
   <a href="mailto:andygptpro@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-andygptpro@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -15,15 +15,14 @@
 
 ---
 
-### 👨‍💻 О себе (About Me)
+### 🧑‍💻 О себе | About Me
+> **Привет!** Я **Андрей**, специалист по искусственному интеллекту и разработке адаптивных веб-приложений. Моя цель — внедрять ИИ для улучшения работы веб-продуктов, чтобы они становились более умными и эффективными.
 
-Привет! Я **Андрей**, специалист по использованию ИИ и разработке адаптивных веб-решений. Я создаю умные цифровые продукты, которые помогают бизнесу стать эффективнее. Мои основные навыки включают современные фреймворки и технологии ИИ: **HTML, CSS, JavaScript, React, Node.js, OpenAI API**.
-
-Hello! I’m **Andrey**, a specialist in AI-powered solutions and adaptive web development. I create smart digital products that drive business efficiency. My core skills include modern frameworks and AI technologies: **HTML, CSS, JavaScript, React, Node.js, OpenAI API**.
+> **Hi!** I’m **Andrey**, an expert in artificial intelligence and adaptive web development. My goal is to implement AI to make web products smarter and more efficient.
 
 ---
 
-### ⚙️ Мои навыки и технологии (Skills & Technologies)
+### 🔥 Навыки и Технологии | Skills & Technologies
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -36,27 +35,27 @@ Hello! I’m **Andrey**, a specialist in AI-powered solutions and adaptive web d
 
 ---
 
-### 📊 Моя статистика на GitHub (My GitHub Stats)
+### 📈 Моя статистика на GitHub | GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndyGptpro&show_icons=true&theme=radical" alt="GitHub Stats" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndyGptpro&theme=radical" alt="GitHub Streak" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndyGptpro&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndyGptpro&theme=tokyonight" alt="GitHub Streak" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyGptpro&layout=compact&theme=radical" alt="Top Languages" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyGptpro&layout=compact&theme=tokyonight" alt="Top Languages" width="48%">
 </p>
 
 ---
 
-### 📫 Связаться со мной (Get in Touch)
+### 📬 Связаться со мной | Get in Touch
 
-- 🌐 Сайт: [andu-gpt.vercel.app](https://andu-gpt.vercel.app)
+- 🌐 Сайт | Website: [andu-gpt.vercel.app](https://andu-gpt.vercel.app)
 - 📧 Email: andygptpro@gmail.com
-- 💼 Upwork: [Мой профиль](https://www.upwork.com/freelancers/~01f566cd0af44e507d)
+- 💼 Upwork: [Мой профиль | Upwork Profile](https://www.upwork.com/freelancers/~01f566cd0af44e507d)
 
 <p align="center">
-  <a href="https://andu-gpt.vercel.app" target="_blank"><img alt="Мой сайт" src="https://img.shields.io/badge/🌐_Сайт-3498db?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://andu-gpt.vercel.app" target="_blank"><img alt="Сайт" src="https://img.shields.io/badge/🌐_Сайт-3498db?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://www.upwork.com/freelancers/~01f566cd0af44e507d" target="_blank"><img alt="Upwork" src="https://img.shields.io/badge/💼_Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white"></a>
   <a href="mailto:andygptpro@gmail.com"><img alt="Email" src="https://img.shields.io/badge/📧_Email-d14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
@@ -64,8 +63,7 @@ Hello! I’m **Andrey**, a specialist in AI-powered solutions and adaptive web d
 ---
 
 <p align="center">
-  <i>Сила ИИ и воображения открывает безграничные возможности!<br>
-  The power of AI combined with imagination opens limitless possibilities!</i>
+  <i>Сила ИИ и воображения открывает безграничные возможности! | The power of AI and imagination opens limitless possibilities!</i>
 </p>
 
 <p align="center">
