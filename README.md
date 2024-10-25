@@ -1,15 +1,15 @@
-<h1 align="center">Привет! 👋 Меня зовут Андрей (AndyGPT)</h1>
+<h1 align="center">👋 Привет! Меня зовут Андрей (AndyGPT)</h1>
 <h3 align="center">Специалист по использованию искусственного интеллекта и веб-разработке</h3>
 
 <p align="center">
   <a href="https://andu-gpt.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Мой_сайт-andu--gpt.vercel.app-3498db?style=for-the-badge&logo=vercel&logoColor=white" alt="Мой сайт">
+    <img src="https://img.shields.io/badge/🌐_Сайт-andu--gpt.vercel.app-3498db?style=for-the-badge&logo=vercel&logoColor=white" alt="Мой сайт">
   </a>
   <a href="https://www.upwork.com/freelancers/~01f566cd0af44e507d" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-Профиль-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork профиль">
+    <img src="https://img.shields.io/badge/💼_Upwork-Профиль-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork профиль">
   </a>
   <a href="mailto:andygptpro@gmail.com">
-    <img src="https://img.shields.io/badge/Email-andygptpro@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/📧_Email-andygptpro@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -23,7 +23,7 @@ Hello! I’m **Andrey**, a specialist in AI-powered solutions and adaptive web d
 
 ---
 
-### ⚙️ Навыки и технологии (Skills & Technologies)
+### ⚙️ Мои навыки и технологии (Skills & Technologies)
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -36,12 +36,15 @@ Hello! I’m **Andrey**, a specialist in AI-powered solutions and adaptive web d
 
 ---
 
-### 📈 Моя статистика на GitHub (My GitHub Stats)
+### 📊 Моя статистика на GitHub (My GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndyGptpro&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndyGptpro&theme=radical" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyGptpro&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndyGptpro&show_icons=true&theme=radical" alt="GitHub Stats" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndyGptpro&theme=radical" alt="GitHub Streak" width="45%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyGptpro&layout=compact&theme=radical" alt="Top Languages" width="50%">
 </p>
 
 ---
@@ -51,6 +54,12 @@ Hello! I’m **Andrey**, a specialist in AI-powered solutions and adaptive web d
 - 🌐 Сайт: [andu-gpt.vercel.app](https://andu-gpt.vercel.app)
 - 📧 Email: andygptpro@gmail.com
 - 💼 Upwork: [Мой профиль](https://www.upwork.com/freelancers/~01f566cd0af44e507d)
+
+<p align="center">
+  <a href="https://andu-gpt.vercel.app" target="_blank"><img alt="Мой сайт" src="https://img.shields.io/badge/🌐_Сайт-3498db?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.upwork.com/freelancers/~01f566cd0af44e507d" target="_blank"><img alt="Upwork" src="https://img.shields.io/badge/💼_Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white"></a>
+  <a href="mailto:andygptpro@gmail.com"><img alt="Email" src="https://img.shields.io/badge/📧_Email-d14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
