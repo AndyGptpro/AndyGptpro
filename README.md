@@ -1,21 +1,25 @@
-<h1 align="center">👋 Привет, я Андрей (AndyGPT)</h1>
-<h3 align="center">✨ Специалист по искусственному интеллекту и веб-разработке ✨</h3>
+<h1 align="center">👋 Привет, я Андрей (AndyGPT) | Hello, I'm Andrey (AndyGPT)</h1>
+<h3 align="center">✨ Специалист по искусственному интеллекту и веб-разработке | AI & Web Development Expert ✨</h3>
+
+<p align="center">
+  <img src="https://i.ibb.co/3YzBsbX/332222595-3305824813080909-8011720858928472867-n.jpg" alt="Andrey's Profile Photo" width="200px" style="border-radius: 50%;">
+</p>
 
 <p align="center">
   <a href="https://andu-gpt.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Сайт-andu--gpt.vercel.app-3498db?style=for-the-badge&logo=vercel&logoColor=white" alt="Сайт">
+    <img src="https://img.shields.io/badge/🌐_Сайт-andu--gpt.vercel.app-3498db?style=for-the-badge&logo=vercel&logoColor=white" alt="Сайт | Website">
   </a>
   <a href="https://www.upwork.com/freelancers/~01f566cd0af44e507d" target="_blank">
-    <img src="https://img.shields.io/badge/💼_Upwork-Профиль-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
+    <img src="https://img.shields.io/badge/💼_Upwork-Профиль-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Профиль | Upwork Profile">
+  </a>
+  <a href="https://www.freelancer.com/u/AndroVision" target="_blank">
+    <img src="https://img.shields.io/badge/💼_Freelancer-Профиль-007fed?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer Профиль | Freelancer Profile">
+  </a>
+  <a href="https://kwork.ru/user/andygptpro" target="_blank">
+    <img src="https://img.shields.io/badge/🛠_Kwork-Профиль-1dbf73?style=for-the-badge&logo=kwork&logoColor=white" alt="Kwork Профиль | Kwork Profile">
   </a>
   <a href="mailto:andygptpro@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-andygptpro@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://kwork.ru/user/andygptpro" target="_blank">
-    <img src="https://img.shields.io/badge/🛠_Kwork-Профиль-1dbf73?style=for-the-badge&logo=kwork&logoColor=white" alt="Kwork">
-  </a>
-  <a href="https://www.freelancer.com/u/AndroVision" target="_blank">
-    <img src="https://img.shields.io/badge/💼_Freelancer-Профиль-007fed?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer">
   </a>
 </p>
 
@@ -41,33 +45,36 @@
 
 ---
 
-### 📈 Моя статистика на GitHub | GitHub Stats
+### 🚀 Мои проекты | Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndyGptpro&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndyGptpro&theme=tokyonight" alt="GitHub Streak" width="48%">
-</p>
+- [🌐 Poetry Translation App](https://englpoemvstix.vercel.app) — Веб-приложение для перевода русской поэзии на английский с помощью ИИ.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyGptpro&layout=compact&theme=tokyonight" alt="Top Languages" width="48%">
-</p>
+  > **Описание проекта**: Этот проект представляет собой уникальное веб-приложение, которое использует возможности ChatGPT для перевода русской поэмы на английский язык. Основное внимание уделено сохранению художественной ценности и эмоциональной выразительности оригинала. Это сочетание технологии и творчества демонстрирует, как ИИ может помогать в литературных переводах, сохраняя глубину и смысл.
+
+  > **Project Description**: This project is a unique web application that leverages the power of ChatGPT to translate a Russian poem into English. The focus is on preserving the artistic value and emotional expressiveness of the original work. This combination of technology and creativity showcases how AI can assist in literary translations while maintaining the depth and meaning of the source material.
+
+- [🌐 Miyagi Poetry App](https://miyagiandy.vercel.app) — Приложение для отображения произведений Miyagi, где искусственный интеллект передает эмоции через поэзию.
+
+  > **Описание проекта**: Приложение использует ИИ для визуализации и эмоциональной передачи произведений Miyagi через текст и поэзию. Это инновационный подход, где технологии соединяются с искусством, создавая уникальный опыт.
+
+  > **Project Description**: This app leverages AI to showcase Miyagi's poetry, focusing on emotional conveyance through text and poetry. It's an innovative blend of technology and art, creating a unique and immersive experience.
 
 ---
 
 ### 📬 Связаться со мной | Get in Touch
 
-- 🌐 Сайт | Website: [andu-gpt.vercel.app](https://andu-gpt.vercel.app)
-- 📧 Email: andygptpro@gmail.com
-- 💼 Upwork: [Мой профиль | Upwork Profile](https://www.upwork.com/freelancers/~01f566cd0af44e507d)
-- 🛠 Kwork: [Мой профиль | Kwork](https://kwork.ru/user/andygptpro)
-- 💼 Freelancer: [Мой профиль | Freelancer](https://www.freelancer.com/u/AndroVision)
+- 🌐 **Сайт | Website**: [andu-gpt.vercel.app](https://andu-gpt.vercel.app)
+- 📧 **Email**: andygptpro@gmail.com
+- 💼 **Upwork**: [Мой профиль | Upwork Profile](https://www.upwork.com/freelancers/~01f566cd0af44e507d)
+- 💼 **Freelancer**: [Мой профиль | Freelancer Profile](https://www.freelancer.com/u/AndroVision)
+- 🛠 **Kwork**: [Профиль | Kwork Profile](https://kwork.ru/user/andygptpro)
 
 <p align="center">
   <a href="https://andu-gpt.vercel.app" target="_blank"><img alt="Сайт" src="https://img.shields.io/badge/🌐_Сайт-3498db?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://www.upwork.com/freelancers/~01f566cd0af44e507d" target="_blank"><img alt="Upwork" src="https://img.shields.io/badge/💼_Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white"></a>
-  <a href="mailto:andygptpro@gmail.com"><img alt="Email" src="https://img.shields.io/badge/📧_Email-d14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://kwork.ru/user/andygptpro" target="_blank"><img alt="Kwork" src="https://img.shields.io/badge/🛠_Kwork-1dbf73?style=for-the-badge&logo=kwork&logoColor=white"></a>
   <a href="https://www.freelancer.com/u/AndroVision" target="_blank"><img alt="Freelancer" src="https://img.shields.io/badge/💼_Freelancer-007fed?style=for-the-badge&logo=freelancer&logoColor=white"></a>
+  <a href="https://kwork.ru/user/andygptpro" target="_blank"><img alt="Kwork" src="https://img.shields.io/badge/🛠_Kwork-1dbf73?style=for-the-badge&logo=kwork&logoColor=white"></a>
+  <a href="mailto:andygptpro@gmail.com"><img alt="Email" src="https://img.shields.io/badge/📧_Email-d14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
