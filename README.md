@@ -8,6 +8,12 @@
   <a href="https://www.upwork.com/freelancers/~01f566cd0af44e507d" target="_blank">
     <img src="https://img.shields.io/badge/💼_Upwork-Профиль-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
   </a>
+  <a href="https://www.freelancer.com/u/AndroVision" target="_blank">
+    <img src="https://img.shields.io/badge/💼_Freelancer-Профиль-007fed?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer">
+  </a>
+  <a href="https://kwork.ru/user/andygptpro" target="_blank">
+    <img src="https://img.shields.io/badge/🛠_Kwork-Профиль-1dbf73?style=for-the-badge&logo=kwork&logoColor=white" alt="Kwork">
+  </a>
   <a href="mailto:andygptpro@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-andygptpro@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
@@ -35,6 +41,12 @@
 
 ---
 
+### 🚀 Мой проект | Featured Project
+
+- [🌐 Poetry Translation App](https://englpoemvstix.vercel.app) — Веб-приложение для перевода английской поэзии на русский язык с помощью ИИ.
+
+---
+
 ### 📈 Моя статистика на GitHub | GitHub Stats
 
 <p align="center">
@@ -53,10 +65,14 @@
 - 🌐 Сайт | Website: [andu-gpt.vercel.app](https://andu-gpt.vercel.app)
 - 📧 Email: andygptpro@gmail.com
 - 💼 Upwork: [Мой профиль | Upwork Profile](https://www.upwork.com/freelancers/~01f566cd0af44e507d)
+- 💼 Freelancer: [Мой профиль | Freelancer Profile](https://www.freelancer.com/u/AndroVision)
+- 🛠 Kwork: [Профиль | Kwork Profile](https://kwork.ru/user/andygptpro)
 
 <p align="center">
   <a href="https://andu-gpt.vercel.app" target="_blank"><img alt="Сайт" src="https://img.shields.io/badge/🌐_Сайт-3498db?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://www.upwork.com/freelancers/~01f566cd0af44e507d" target="_blank"><img alt="Upwork" src="https://img.shields.io/badge/💼_Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white"></a>
+  <a href="https://www.freelancer.com/u/AndroVision" target="_blank"><img alt="Freelancer" src="https://img.shields.io/badge/💼_Freelancer-007fed?style=for-the-badge&logo=freelancer&logoColor=white"></a>
+  <a href="https://kwork.ru/user/andygptpro" target="_blank"><img alt="Kwork" src="https://img.shields.io/badge/🛠_Kwork-1dbf73?style=for-the-badge&logo=kwork&logoColor=white"></a>
   <a href="mailto:andygptpro@gmail.com"><img alt="Email" src="https://img.shields.io/badge/📧_Email-d14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -69,3 +85,4 @@
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" height="150">
 </p>
+
