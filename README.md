@@ -1,5 +1,5 @@
-<h1 align="center">👋 Привет, я Андрей (AndyGPT)</h1>
-<h3 align="center">✨ Специалист по искусственному интеллекту и веб-разработке ✨</h3>
+<h1 align="center">👋 Привет, я Андрей (AndyGPT) | Hello, I'm Andrey (AndyGPT)</h1>
+<h3 align="center">✨ Специалист по искусственному интеллекту и веб-разработке | AI & Web Development Expert ✨</h3>
 
 <p align="center">
   <img src="https://i.ibb.co/3YzBsbX/332222595-3305824813080909-8011720858928472867-n.jpg" alt="Andrey's Profile Photo" width="200px" style="border-radius: 50%;">
@@ -7,16 +7,16 @@
 
 <p align="center">
   <a href="https://andu-gpt.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Сайт-andu--gpt.vercel.app-3498db?style=for-the-badge&logo=vercel&logoColor=white" alt="Сайт">
+    <img src="https://img.shields.io/badge/🌐_Сайт-andu--gpt.vercel.app-3498db?style=for-the-badge&logo=vercel&logoColor=white" alt="Сайт | Website">
   </a>
   <a href="https://www.upwork.com/freelancers/~01f566cd0af44e507d" target="_blank">
-    <img src="https://img.shields.io/badge/💼_Upwork-Профиль-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
+    <img src="https://img.shields.io/badge/💼_Upwork-Профиль-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Профиль | Upwork Profile">
   </a>
   <a href="https://www.freelancer.com/u/AndroVision" target="_blank">
-    <img src="https://img.shields.io/badge/💼_Freelancer-Профиль-007fed?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer">
+    <img src="https://img.shields.io/badge/💼_Freelancer-Профиль-007fed?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer Профиль | Freelancer Profile">
   </a>
   <a href="https://kwork.ru/user/andygptpro" target="_blank">
-    <img src="https://img.shields.io/badge/🛠_Kwork-Профиль-1dbf73?style=for-the-badge&logo=kwork&logoColor=white" alt="Kwork">
+    <img src="https://img.shields.io/badge/🛠_Kwork-Профиль-1dbf73?style=for-the-badge&logo=kwork&logoColor=white" alt="Kwork Профиль | Kwork Profile">
   </a>
   <a href="mailto:andygptpro@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-andygptpro@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -53,11 +53,11 @@
 
 ### 📬 Связаться со мной | Get in Touch
 
-- 🌐 Сайт | Website: [andu-gpt.vercel.app](https://andu-gpt.vercel.app)
-- 📧 Email: andygptpro@gmail.com
-- 💼 Upwork: [Мой профиль | Upwork Profile](https://www.upwork.com/freelancers/~01f566cd0af44e507d)
-- 💼 Freelancer: [Мой профиль | Freelancer Profile](https://www.freelancer.com/u/AndroVision)
-- 🛠 Kwork: [Профиль | Kwork Profile](https://kwork.ru/user/andygptpro)
+- 🌐 **Сайт | Website**: [andu-gpt.vercel.app](https://andu-gpt.vercel.app)
+- 📧 **Email**: andygptpro@gmail.com
+- 💼 **Upwork**: [Мой профиль | Upwork Profile](https://www.upwork.com/freelancers/~01f566cd0af44e507d)
+- 💼 **Freelancer**: [Мой профиль | Freelancer Profile](https://www.freelancer.com/u/AndroVision)
+- 🛠 **Kwork**: [Профиль | Kwork Profile](https://kwork.ru/user/andygptpro)
 
 <p align="center">
   <a href="https://andu-gpt.vercel.app" target="_blank"><img alt="Сайт" src="https://img.shields.io/badge/🌐_Сайт-3498db?style=for-the-badge&logo=vercel&logoColor=white"></a>
