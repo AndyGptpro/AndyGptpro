@@ -2,6 +2,10 @@
 <h3 align="center">✨ Специалист по искусственному интеллекту и веб-разработке ✨</h3>
 
 <p align="center">
+  <img src="https://i.ibb.co/3YzBsbX/332222595-3305824813080909-8011720858928472867-n.jpg" alt="Andrey's Profile Photo" width="200px" style="border-radius: 50%;">
+</p>
+
+<p align="center">
   <a href="https://andu-gpt.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Сайт-andu--gpt.vercel.app-3498db?style=for-the-badge&logo=vercel&logoColor=white" alt="Сайт">
   </a>
@@ -47,19 +51,6 @@
 
 ---
 
-### 📈 Моя статистика на GitHub | GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndyGptpro&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndyGptpro&theme=tokyonight" alt="GitHub Streak" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyGptpro&layout=compact&theme=tokyonight" alt="Top Languages" width="48%">
-</p>
-
----
-
 ### 📬 Связаться со мной | Get in Touch
 
 - 🌐 Сайт | Website: [andu-gpt.vercel.app](https://andu-gpt.vercel.app)
@@ -85,4 +76,3 @@
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" height="150">
 </p>
-
