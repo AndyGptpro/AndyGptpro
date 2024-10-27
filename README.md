@@ -32,6 +32,13 @@
 
 ---
 
+### ⚠️ Важно | Important
+Копирование содержимого без разрешения строго запрещено. Пожалуйста, уважайте авторские права и условия использования.
+
+Copying content without permission is strictly prohibited. Please respect copyrights and usage terms.
+
+---
+
 ### 🔥 Навыки и Технологии | Skills & Technologies
 
 <div align="center">
@@ -45,7 +52,7 @@
 
 ---
 
-### 🚀 Мои проекты | Featured Projects
+### 🚀 Мой проект | Featured Project
 
 - [🌐 Poetry Translation App](https://englpoemvstix.vercel.app) — Веб-приложение для перевода русской поэзии на английский с помощью ИИ.
 
@@ -53,18 +60,12 @@
 
   > **Project Description**: This project is a unique web application that leverages the power of ChatGPT to translate a Russian poem into English. The focus is on preserving the artistic value and emotional expressiveness of the original work. This combination of technology and creativity showcases how AI can assist in literary translations while maintaining the depth and meaning of the source material.
 
-- [🌐 Miyagi Poetry App](https://miyagiandy.vercel.app) — Приложение для отображения произведений Miyagi, где искусственный интеллект передает эмоции через поэзию.
-
-  > **Описание проекта**: Приложение использует ИИ для визуализации и эмоциональной передачи произведений Miyagi через текст и поэзию. Это инновационный подход, где технологии соединяются с искусством, создавая уникальный опыт.
-
-  > **Project Description**: This app leverages AI to showcase Miyagi's poetry, focusing on emotional conveyance through text and poetry. It's an innovative blend of technology and art, creating a unique and immersive experience.
-
 ---
 
 ### 📬 Связаться со мной | Get in Touch
 
 - 🌐 **Сайт | Website**: [andu-gpt.vercel.app](https://andu-gpt.vercel.app)
-- 📧 **Email**: andygptpro@gmail.com
+- 📧 **Email**: [andygptpro@gmail.com](mailto:andygptpro@gmail.com)
 - 💼 **Upwork**: [Мой профиль | Upwork Profile](https://www.upwork.com/freelancers/~01f566cd0af44e507d)
 - 💼 **Freelancer**: [Мой профиль | Freelancer Profile](https://www.freelancer.com/u/AndroVision)
 - 🛠 **Kwork**: [Профиль | Kwork Profile](https://kwork.ru/user/andygptpro)
