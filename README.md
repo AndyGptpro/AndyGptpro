@@ -52,13 +52,19 @@ Copying content without permission is strictly prohibited. Please respect copyri
 
 ---
 
-### 🚀 Мой проект | Featured Project
+### 🚀 Мои проекты | Featured Projects
 
 - [🌐 Poetry Translation App](https://englpoemvstix.vercel.app) — Веб-приложение для перевода русской поэзии на английский с помощью ИИ.
 
   > **Описание проекта**: Этот проект представляет собой уникальное веб-приложение, которое использует возможности ChatGPT для перевода русской поэмы на английский язык. Основное внимание уделено сохранению художественной ценности и эмоциональной выразительности оригинала. Это сочетание технологии и творчества демонстрирует, как ИИ может помогать в литературных переводах, сохраняя глубину и смысл.
 
   > **Project Description**: This project is a unique web application that leverages the power of ChatGPT to translate a Russian poem into English. The focus is on preserving the artistic value and emotional expressiveness of the original work. This combination of technology and creativity showcases how AI can assist in literary translations while maintaining the depth and meaning of the source material.
+
+- [🌐 Miyagi Poetry App](https://miyagiandy.vercel.app) — Приложение для отображения поэтических произведений Miyagi с помощью ИИ.
+
+  > **Описание проекта**: Приложение для отображения поэтических произведений Miyagi, где стихи и эмоции передаются с помощью ИИ. Вдохновляйтесь искусством через технологии!
+
+  > **Project Description**: This app showcases Miyagi's poetry, where emotions are conveyed through the power of AI. Be inspired by art through technology!
 
 ---
 
